@@ -1,6 +1,6 @@
 # Block Physics
 
-Block physics is an addon that adds customizable entities that attempt to mimics by utilizing the mainhand item model and scaling it up to block size. This pack does make use of the experimental GameTest Framework in order to convert blocks into entities, but no other experiment is used and the entities themselves don't use any experimental features.
+Block physics is an addon that adds customizable entities that attempt to mimics by utilizing the mainhand item model and scaling it up to block size. ~~This pack does make use of the experimental GameTest Framework in order to convert blocks into entities, but~~ no other experiment is used and the entities themselves don't use any experimental features.
 
 ![image](https://user-images.githubusercontent.com/75375633/178336544-f6ae3279-cdf3-4948-9ffe-3530b3864073.png)
 
